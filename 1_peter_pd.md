@@ -6,7 +6,7 @@
   * in Pontus, Galatia, Cappadocia, Asia, and Bithynia,
     * __2__ elect according to the foreknowledge of God the Father, 
       * in sanctification of the Spirit, 
-        * for obedience and sprinkling of the blood of Jesus Christ:
+        * for obedience and sprinkling of the blood of Jesus Christ: 
   * Grace to you and peace be multiplied.
 * __3__ Blessed be the God and Father of our Lord Jesus Christ, 
 * who according to His abundant mercy has begotten us again to a living hope 
@@ -22,23 +22,23 @@
           * __8__ whom having not seen you love. 
             * Though now you do not see Him, yet believing,
               * you rejoice with joy inexpressible and full of glory,
-          * __9__ receiving the end of your faith— the salvation of your souls.
-            * __10__ Of this salvation the prophets have inquired and searched carefully, 
-              * who prophesied of the grace that would come to you,
-              * __11__ searching what, or what manner of time, the Spirit of Christ who was in them was indicating when He testified beforehand
-                * the sufferings of Christ 
-                * and the glories that would follow.
-              * __12__ To them it was revealed that, not to themselves, but to us they were ministering the things which now have been reported to you
-                * through those who have preached the gospel to you
-                * by the Holy Spirit sent from heaven—things which angels desire to look into.
-    * __13__ Therefore gird up the loins of your mind, be sober, and rest your hope fully upon the grace that is to be brought to you at the revelation of Jesus Christ;
+  * __9__ receiving the end of your faith— the salvation of your souls.
+    * __10__ Of this salvation the prophets have inquired and searched carefully, 
+      * who prophesied of the grace that would come to you,
+      * __11__ searching what, or what manner of time, the Spirit of Christ who was in them was indicating when He testified beforehand
+        * the sufferings of Christ 
+        * and the glories that would follow.
+      * __12__ To them it was revealed that, not to themselves, but to us they were ministering the things which now have been reported to you
+        * through those who have preached the gospel to you
+        * by the Holy Spirit sent from heaven—things which angels desire to look into.
+    * __13__ Therefore gird up the loins of your mind, 
+    * be sober, 
+    * and rest your hope fully upon the grace that is to be brought to you at the revelation of Jesus Christ;
       * __14__ as obedient children,
-        * not conforming yourselves to the former lusts, 
-          * as in your ignorance;
+        * not conforming yourselves to the former lusts, as in your ignorance;
         * __15__ but as He who called you is holy, you also be holy in all your conduct,
           * __16__ because it is written, “Be holy, for I am holy.”
-    * __17__ And if you call on the Father, 
-      * who without partiality judges according to each one’s work, 
+    * __17__ And if you call on the Father, who without partiality judges according to each one’s work,
       * conduct yourselves throughout the time of your stay here in fear;
         * __18__ knowing that you were not redeemed with corruptible things, like silver or gold, 
           * from your aimless conduct received by tradition from your fathers,
@@ -50,14 +50,14 @@
                   * so that your faith and hope are in God.
 * __22__ Since you have purified your souls in obeying the truth through the Spirit in sincere love of the brethren, 
   * love one another fervently with a pure heart,
-  * 23 having been born again, not of corruptible seed but incorruptible, 
-    * through the word of God which lives and abides forever,
-      * __24__ because “All flesh is as grass, And all the glory of man as the flower of the grass. 
-        * The grass withers, And its flower falls away, 
-        * __25__ But the word of the Lord endures forever.”
-    * Now this is the word which by the gospel was preached to you.
-      * __CH2__ Therefore, laying aside all malice, all deceit, hypocrisy, envy, and all evil speaking, 
-        * __2__ as newborn babes, desire the pure milk of the word, that you may grow thereby,
+    * 23 having been born again, not of corruptible seed but incorruptible, 
+      * through the word of God which lives and abides forever,
+        * __24__ because “All flesh is as grass, And all the glory of man as the flower of the grass. 
+          * The grass withers, And its flower falls away, 
+          * __25__ But the word of the Lord endures forever.”
+        * Now this is the word which by the gospel was preached to you.
+          * __CH2__ Therefore, laying aside all malice, all deceit, hypocrisy, envy, and all evil speaking, 
+* __2__ as newborn babes, desire the pure milk of the word, that you may grow thereby,
 * __3__ if indeed you have tasted that the Lord [is] gracious.
 * __4__ Coming to Him [as to] a living stone, rejected indeed by men, but chosen by God [and] precious,
 * __5__ you also, as living stones, are being built up a spiritual house, a holy priesthood, to offer up spiritual sacrifices acceptable to God through Jesus Christ.
