@@ -1,26 +1,29 @@
 ## 1 Peter Propositional Diagram
 
-> __CH1__ Peter, an apostle of Jesus Christ,
-> To the pilgrims of the Dispersion 
+>> __CH1__ Peter, an apostle of Jesus Christ,
+> *__P__* To the pilgrims of the Dispersion 
 >> in Pontus, Galatia, Cappadocia, Asia, and Bithynia,
->>> __2__ elect according to the foreknowledge of God the Father, 
->>>> in sanctification of the Spirit, 
->>>>>> for obedience and sprinkling of the blood of Jesus Christ: 
+> *__P__* __2__ elect according to the foreknowledge of God the Father,
+>> in sanctification of the Spirit,
+>> for obedience
+>> and sprinkling of the blood of Jesus Christ:
 >> Grace to you and peace be multiplied.
-> __3__ Blessed be the God and Father of our Lord Jesus Christ, 
-> who according to His abundant mercy has begotten us again to a living hope 
->> through the resurrection of Jesus Christ from the dead,
->>> __4__ to an inheritance incorruptible and undefiled and that does not fade away,
+>> __3__ Blessed be the God and Father of our Lord Jesus Christ,
+> *__P__* who according to His abundant mercy has begotten us again to a living hope
+>>> through the resurrection of Jesus Christ from the dead,
+>>> __4__ to an inheritance incorruptible
+>>>> and undefiled
+>>>> and that does not fade away,
 >>>> reserved in heaven for you,
 >>>>> __5__ who are kept by the power of God through faith
 >>>>>> for salvation ready to be revealed in the last time.
->> __6__ In this you greatly rejoice, 
->>> though now for a little while, if need be, you have been grieved by various trials,
->>>> __7__ that the genuineness of your faith, being much more precious than gold that perishes, though it is tested by fire, may be found to praise, honor, and glory
->>>>> at the revelation of Jesus Christ,
-          > __8__ whom having not seen you love. 
-            > Though now you do not see Him, yet believing,
-              > you rejoice with joy inexpressible and full of glory,
+>>> __6__ In this you greatly rejoice,
+>>>> though now for a little while, if need be, you have been grieved by various trials,
+>>>>> __7__ that the genuineness of your faith, being much more precious than gold that perishes, though it is tested by fire, may be found to praise, honor, and glory
+>>>>>> at the revelation of Jesus Christ,
+>>>>>>> __8__ whom having not seen you love. 
+>>>>>>>> Though now you do not see Him, yet believing,
+>>>>>>>>> you rejoice with joy inexpressible and full of glory,
   > __9__ receiving the end of your faith— the salvation of your souls.
     > __10__ Of this salvation the prophets have inquired and searched carefully, 
       > who prophesied of the grace that would come to you,
