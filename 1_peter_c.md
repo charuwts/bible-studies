@@ -53,6 +53,7 @@
 | 1 Peter      | 1:4      | Word      | Inheritance, Begotton of God, Living Hope, Spirit | Roma,8:12-25                       |
 | 1 Peter      | 1:4      | Word      | Incorruptible                                     | 1Cor,15:50-58                      |
 | 1 Peter      | 1:5      | Word      | Trials                                            | Jame,1:2-8                         |
+| 1 Peter      | 1:5      | Word      | Perseverence of Faith                             | Col,1:22-23                        |
 | 1 Peter      | 1:6      | Phrase    | Trials for a little while                         | Roma,8:18                          |
 | 1 Peter      | 1:7      | Phrase    | Genuiness of Faith                                | Titu,1:13                          |
 | 1 Peter      | 1:7      | Phrase    | Genuiness of Faith                                | 2Cor,13:5                          |
@@ -69,6 +70,7 @@
 | 1 Peter      | 1:17     | Phrase    | Fear of God                                       | Luke,12:4-6                        |
 | 1 Peter      | 1:17     | Phrase    | Fear of God                                       | Isai,66:2                          |
 | 1 Peter      | 1:18     | Word      | Tradition                                         | Matt,15:1-9                        |
+| 1 Peter      | 2:5      | Phrase    | Spiritual Sacrifice                               | Roma,12:1                          |
 | 1 Peter      | 2:6      | Word      | Cornerstone                                       | Ephe,2:19-22                       |
 | 1 Peter      | 2:7      | Word      | Cornerstone                                       | Acts,4:8-12                        |
 | 1 Peter      | 2:7      | Word      | Cornerstone                                       | Matt,21:33-46                      |

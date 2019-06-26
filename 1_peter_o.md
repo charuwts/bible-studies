@@ -1,7 +1,7 @@
 ## 1 Peter Observations
 
 * The book was written not long after Paul's death
-  * likely around the time of Nero
+  * likely around the time of Nero - 64
 
 ### 1:1
 
@@ -98,3 +98,23 @@
 
 * 
 
+### 2:4
+
+* Jesus was rejected by men
+* Jesus is chosen and precious to God
+
+### 2:5
+
+* They are living stones
+  * being built up
+    * a spiritual house
+    * a holy priesthood
+* They can offer spiritual sacrifices that are acceptable to God
+  * Through Jesus Christ
+  * This is the reason they are being built up
+
+### 2:6-8
+* This is also contained in the scripture Isaiah 28:16
+* Whoever believes on this chief cornerstone, will by no means be put to shame
+  * Therefore He is precious to those who believe
+  * To those who are disobedient He has become a stone of stumbling
