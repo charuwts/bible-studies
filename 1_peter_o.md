@@ -69,14 +69,19 @@
     * and so rejoice
 * past tense "not seen", yet they love
 * present tense "do not see", yet they believe
+* Their joy is inexpressible
 * Their joy is full of glory
+
 
 ### 1:9
 
 * The outcome of faith is salvation
+  * The salvation of their souls
 
 ### 1:10
 
+* The prophets searched and inquired about this salvation
+  * specifically seeking to know the person or time of what was predicted by the spirit - _1:11_
 * The prophets prophesied of grace that would come
 
 ### 1:11
@@ -90,13 +95,67 @@
 ### 1:12
 
 * Peter again refers to "us" instead of "you"
+  * NASB uses the word "you"
 * the gospel was preached by the Holy Spirit
   * The Spirit was sent from heaven
 * Angels desire to look into these things
+  * see also Ephesians 3:12 and 1 Corinthians 11:10
 
 ### 1:13
 
-* 
+* NKJV be sober / NASB be sober _in spirit_
+* their hope should be fixed to something
+  * on the grace to be brought to them
+    * it will be brought at the revelation of Jesus Christ
+
+### 1:14-16
+
+* They had former lusts
+  * they were theirs in their ignorance
+  * they are not to be conformed to them
+    * being former and commanded not to conform to them implies they can go back to them
+* in contrast to lust, they are to be holy
+  * like the One who called them
+  * they are to be so in all behavior/conduct
+  * the reason is because it is written to be so - _Leviticus 11:44-5_
+
+### 1:17
+
+* the Father judges according to works
+  * if they call on Him they ought to fear
+    * during time on earth
+
+### 1:18-19
+
+* they were redeemed with blood
+  * not with silver and gold
+* their previous way of life was futile/aimless
+*  
+
+### 1:20
+
+* Jesus was foreknown
+* Jesus appeared in the last times
+  * the last times are at hand
+  * He appeared for their sake
+
+### 1:21
+
+* God raised Christ from the dead
+  * and gave Him glory
+  * it was for the purpose that their faith and hope would be in God
+
+### 1:22
+
+* they have purified their souls in obeying the truth
+* Peter commands them to love one another
+  * This is done even though they have been purified for this purpose
+  * he says to do so fervantly
+
+### 1:23
+
+
+
 
 ### 2:4
 
@@ -118,3 +177,9 @@
 * Whoever believes on this chief cornerstone, will by no means be put to shame
   * Therefore He is precious to those who believe
   * To those who are disobedient He has become a stone of stumbling
+
+### 2:9
+
+* There is a list of descriptors for the chosen of God
+* They are His own special people for the purpose that they may proclaim the praises of Him
+* There is a contrast of them being called out of darkness to light

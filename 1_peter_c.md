@@ -65,7 +65,10 @@
 | 1 Peter      | 1:8      | Phrase    | Having not seen                                   | 1Joh,2:28; 3:1-3                   |
 | 1 Peter      | 1:8      | Phrase    | Having not seen                                   | John,20:29                         |
 | 1 Peter      | 1:9      | Phrase    | Outcome of Faith                                  | Roma,1:16-17                       |
+| 1 Peter      | 1:15     | Phrase    | Purifying ourselves                               | Jame,4:8                           |
+| 1 Peter      | 1:15     | Phrase    | Purifying ourselves                               | 1Jon,3:3                           |
 | 1 Peter      | 1:12     | Phrase    | Prophets                                          | Ephe,3                             |
+| 1 Peter      | 1:12     | Phrase    | In regards to the spiritual realm                 | Ephe,3:12                          |
 | 1 Peter      | 1:12     | Phrase    | Holy Spirit sent from Heaven                      | Luke,11:13                         |
 | 1 Peter      | 1:17     | Phrase    | Fear of God                                       | Luke,12:4-6                        |
 | 1 Peter      | 1:17     | Phrase    | Fear of God                                       | Isai,66:2                          |
