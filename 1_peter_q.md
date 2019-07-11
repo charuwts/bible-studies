@@ -1,5 +1,9 @@
 ## 1 Peter Questions
 
+What catory of people are the gentiles in this book?
+What is the reason for obedience in each proposition?
+What was cut off? (Sariana)
+
 ### 1:1
 * Why is Peter writing specifically to the pilgrims of the Dispersion?
 
@@ -19,3 +23,9 @@
 
 ### 1:7
 * Is there a difference between the praise brought to Jesus immediately and the praise brought when He returns? If so, what is it?
+
+### 1:23
+* Is the Word mentioned here the written/spoken word, or the incarnate Christ
+
+### 1:25
+* What does it mean to be preached _"by the gospel"_

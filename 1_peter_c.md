@@ -42,6 +42,10 @@
 | 1 Peter      | 1:3      | Phrase    | Begotton of God                                   | Gala,3:26-29                       |
 | 1 Peter      | 1:3      | Phrase    | Begotton of God                                   | Ephe,1:3-6                         |
 | 1 Peter      | 1:3      | Phrase    | Begotton of God                                   | 1Joh,5:1-2                         |
+| 1 Peter      | 1:4      | Word      | Inherit                                           | Psal,37                            |
+| 1 Peter      | 1:4      | Word      | Inherit                                           | Prov,3:35                          |
+| 1 Peter      | 1:4      | Word      | Inherit                                           | Matt,5:5;19:29;25:34               |
+| 1 Peter      | 1:4      | Word      | Inheritance                                       | Ezek,44:28                         |
 | 1 Peter      | 1:4      | Word      | Inheritance                                       | Ephe,1:11-14                       |
 | 1 Peter      | 1:4      | Word      | Inheritance                                       | Matt,21:38                         |
 | 1 Peter      | 1:4      | Word      | Inheritance                                       | Luke,20:14                         |
