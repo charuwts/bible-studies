@@ -44,28 +44,28 @@
 
 #### Application
 
-Conclusion of the matter 
-  Titus 2:11-14
-    The grace of God does teach us to live godly lives, it is in light of the coming hope! It is He that purifies us.
-  2 Peter 3
-    Peter speaks of the reason for his epistles, that he would stir up by way of reminder the things pertaining to the coming of Christ
-  Acts 24:14-16
-    Paul because of hope in God, strives
+* Conclusion of the matter 
+  * Titus 2:11-14
+    * The grace of God does teach us to live godly lives, it is in light of the coming hope! It is He that purifies us.
+  * 2 Peter 3
+    * Peter speaks of the reason for his epistles, that he would stir up by way of reminder the things pertaining to the coming of Christ
+  * Acts 24:14-16
+    * Paul because of hope in God, strives
 
-We are pilgrims because we look to another homeland - Heb 11:13-16
-  These all died in faith looking to the promises, pilgrims because rather then looking to the their country they desired a heavenly country!
+* We are pilgrims because we look to another homeland - Heb 11:13-16
+  * These all died in faith looking to the promises, pilgrims because rather then looking to the their country they desired a heavenly country!
 
-We rejoice in our living hope and bring glory to Christ
-They had not and did not see Christ, but they rejoiced! For they knew that when He is revealed we shall be made like Him! We will see Him face to face!
-1Co 13:12, 15:50, 2Co 3:18
+* We rejoice in our living hope and bring glory to Christ
+* They had not and did not see Christ, but they rejoiced! For they knew that when He is revealed we shall be made like Him! We will see Him face to face!
+* 1Co 13:12, 15:50, 2Co 3:18
 
 
-It is not simply us being told to live holy
-It is not to exhort us to grit our teeth and be like Jesus was in suffering
-But to look to Him, our living hope! We must remember the purpose of the scripture story of redemption! It has never changed, from before and of old they looked to the coming of the Christ and now that He is revealed we look to His coming again.
-Submission is not suffering, it is beautiful, incorruptible and precious in the sight of God!
+* It is not simply us being told to live holy
+* It is not to exhort us to grit our teeth and be like Jesus was in suffering
+* But to look to Him, our living hope! We must remember the purpose of the scripture story of redemption! It has never changed, from before and of old they looked to the coming of the Christ and now that He is revealed we look to His coming again.
+* Submission is not suffering, it is beautiful, incorruptible and precious in the sight of God!
 
-Flee the wrath to come, flee to Jesus, just as in the days of Noah some were saved by entering the ark, so must we enter into Christ to excape the coming judgment.
+* Flee the wrath to come, flee to Jesus, just as in the days of Noah some were saved by entering the ark, so must we enter into Christ to excape the coming judgment.
 
 ---
 
