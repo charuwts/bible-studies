@@ -4,7 +4,8 @@
 ### NKJV
 <pre>
     <b>CH1</b> Peter, an apostle of Jesus Christ, 
-To the pilgrims of the Dispersion in Pontus, Galatia, Cappadocia, Asia, and Bithynia,
+To the pilgrims of the Dispersion 
+    in Pontus, Galatia, Cappadocia, Asia, and Bithynia,
     <b>2</b> elect according to the foreknowledge of God the Father, 
         in sanctification of the Spirit, 
         for obedience and sprinkling of the blood of Jesus Christ: 
@@ -167,11 +168,23 @@ abstain from fleshly lusts which war against the soul,
             as to the weaker vessel, 
             and as being heirs together of the grace of life, 
             that your prayers may not be hindered.
-    <b>8</b> Finally, all of you be of one mind, having compassion for one another; love as brothers, be tenderhearted, be courteous;
-    <b>9</b> not returning evil for evil or reviling for reviling, but on the contrary blessing, knowing that you were called to this, that you may inherit a blessing.
-    <b>10</b> For "He who would love life And see good days, Let him refrain his tongue from evil, And his lips from speaking deceit.
-    <b>11</b> Let him turn away from evil and do good; Let him seek peace and pursue it.
-    <b>12</b> For the eyes of the LORD are on the righteous, And His ears are open to their prayers; But the face of the LORD is against those who do evil."
+<b>8</b> Finally, all of you be of one mind, 
+    having compassion for one another; 
+    love as brothers, 
+    be tenderhearted, 
+    be courteous;
+    <b>9</b> not returning evil for evil 
+    or reviling for reviling, 
+    but on the contrary blessing, 
+    knowing that you were called to this, that you may inherit a blessing.
+        <b>10</b> For "He who would love life And see good days, 
+            Let him refrain his tongue from evil, 
+            And his lips from speaking deceit.
+            <b>11</b> Let him turn away from evil and do good; 
+            Let him seek peace and pursue it.
+        <b>12</b> For the eyes of the LORD are on the righteous, 
+            And His ears are open to their prayers; 
+            But the face of the LORD is against those who do evil."
     <b>13</b> And who is he who will harm you if you become followers of what is good?
     <b>14</b> But even if you should suffer for righteousness' sake, you are blessed. "And do not be afraid of their threats, nor be troubled."
     <b>15</b> But sanctify the Lord God in your hearts, and always be ready to give a defense to everyone who asks you a reason for the hope that is in you, with meekness and fear;

@@ -22,6 +22,11 @@
 
 #### Interpretation
 
+* In regards to Suffering
+  1 About it
+  2 What it includes
+  3 How it fits
+  
 * In Regards to Inheritance
   1 About it
     * It is obtained in Christ - Eph 1:11
@@ -40,7 +45,26 @@
       * through faith and patience
     * The kingdom of God - 1Co 6:9-10, Gal 5:21
   3 How it fits
+    * This inheritance is incorruptible and reserved in heaven, it is very tightly associated with their future hope
 
+* In regards to Hope
+  1 About it
+    * Hope deferred makes the heart sick - Pro 13:12
+  2 What it includes
+  3 How it fits
+
+* In regards to the Prophets
+  1 About it
+  2 What it includes
+  3 How it fits
+
+* In regards to the "Sanctify the Lord God in your hearts"
+  1 About it
+    Regarded as Holy - Lev 10:3
+    The Lord is the one that sanctifies - Lev 20:7-8
+    Lev 22:32, Isa 5:16, 8:13
+  2 What it includes
+  3 How it fits
 
 #### Application
 

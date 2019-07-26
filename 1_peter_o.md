@@ -237,3 +237,9 @@
 * Husbands are to dweel with their wives with understanding in order that their prayers may not be hindered
 * the wife is a weaker vessel
 
+### 3:15
+* The Lord is to be sanctified in their hearts
+  * consecrated, treated as holy - _Lev 10:3, 20:7-8, 22:32, Isa 5:16, 8:13_
+
+### 4:1
+* 
