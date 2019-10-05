@@ -66,6 +66,13 @@
   2 What it includes
   3 How it fits
 
+* In regards to Pilgrims
+  1 About it
+    * Peter's use of Pilgrims seems to be in referrence to the heavenly home sort of pilgrims mentioned in Hebrews, as there wouldn't be much reason to appeal to being pilgrims of a earthly land as a reason to obstain from fleshly lust - 2:11
+  2 What it includes
+  3 How it fits
+
+
 #### Application
 
 * Conclusion of the matter 
@@ -110,3 +117,12 @@
     * Do we have inexpressible joy in Christ?
     * Do we believe and love Him even though we do not see?
 
+
+
+
+
+
+
+
+##### 2:1-2
+* laying aside fleshly things is necessary for desiring the Word and growing in it.

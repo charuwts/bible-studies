@@ -36,10 +36,10 @@ This is the genealogy of the sons of Noah. The coastland peoples of the Gentiles
 ### Genesis 11 short summary - BABEL
 The whole earth had one language and one speech. They said: "Come let us build ourselves a city, and a tower whose top is in the heavens; let us make a name for ourselves, lest we be scattered abroad over the face of the whole earth." The Lord scattered them abroad from there over the face of all the earth, and they ceased building the city. The genealogy of Shem. The genealogy of Terah. Abram's wife Sarai was barren. Terah took his son Abram and grandson Lot from Ur of the Chaldeans to go to the land of Canaan. Terah died in Haran.
 
-### Genesis 12 short summary - 
+### Genesis 12 short summary - BLESSING
 Abram will be blessed and be a blessing. Abram and Lot depart from Haran, to the land of Canaan, as far as the terebinth tree of Moreh, the Lord appeared and said to Abram, "To your descendants I will give this land". Abram built an alter to the Lord. There was severe famine. The Egyptians saw that Sarai was very beautiful. The Lord plagued Pharaoh and his house because of Sarai. Pharaoh questions Abram then sends him away with his wife and all that he had.
 
-### Genesis 13 short summary -
+### Genesis 13 short summary - 
 Abram was very rich in livestock, in silver and in gold. Abram called on the name of the Lord. Abram and Lot's possessions were so great that they could not dwell together. They separated from each other. Abram dwelt in the land of Canaan, and Lot dwelt in the cities of the plain. God said to Abram that he will make Abram's descendants as the dust of the earth and gave the land to him. Then Abram moved his tent and went and dwelt by the terebinth trees of Mamre.
 
 ### Genesis 14 short summary -
@@ -76,3 +76,15 @@ Sarah bore Abraham a son in his old age, at the set time of which God had spoken
 Paul, a bondservant of God. To Titus, a true son in their common faith. Paul left Titus in Create, that he should set in order the things that are lacking and appoint elders in every city. Qualifications for a biship. There are many insubordinate.
 
 ### Titus 2 short summary - 
+
+
+
+### 1 Peter 1 short summary - Hope
+Peter an apostle of Jesus Christ, To the pilgrims of the Dispersion. They have been begotten to a living hope. They greatly rejoice. The prophets inquired of salvation. Those who call on the Father should conduct themselves in fear. The Word lives and abides forever.
+
+### 1 Peter 2 short summary - 
+They are to desire the pure milk of the word and come to Him as to a living stone. As pilgrimes they are to obstain from fleshly lusts and submit to every ordinance of man.
+
+### 1 Peter 3 short summary - 
+### 1 Peter 4 short summary - 
+### 1 Peter 5 short summary - 

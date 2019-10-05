@@ -192,8 +192,16 @@
 * They are His own special people for the purpose that they may proclaim the praises of Him
 * There is a contrast of them being called out of darkness to light
 
-### 2:10-11
+### 2:10
+* They were once not the people of God
+
+### 2:11
 * Peter moves from describing the people of God to appealing to them as pilgrims - _Heb 11:13-16_
+* Peter is making an appeal based on the fact that they are pilgrims
+  * this appeal is to obstain from fleshly lusts
+  * this appeal uses strong language such as calling them "beloved" and "begs them"
+* Fleshly lusts war against the soul
+  * obstaining from lust is a form of spiritual warfare
 
 ### 2:12
 * the day of visitation is the coming judgment of God
