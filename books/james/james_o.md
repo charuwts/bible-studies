@@ -11,3 +11,8 @@
   * Patience has a perfect work
     * They are to let it happen so that they may be perfect
     * lacking nothing
+
+
+### 3:1
+* Some should not become teachers
+  * Therefore some are not teachers, even though all in some way teach
