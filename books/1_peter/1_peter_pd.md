@@ -15,30 +15,30 @@ who according to His abundant mercy has begotten us again to a living hope
     through the resurrection of Jesus Christ from the dead,
     <b>4</b> to an inheritance 
         incorruptible and undefiled and that does not fade away, 
-        reserved in heaven for you, [FUTURE HOPE]
+        reserved in heaven for you, <b><i>[FUTURE HOPE]</i></b>
             <b>5</b> who are kept by the power of God 
                 through faith 
-                for salvation ready to be revealed in the last time. [FUTURE HOPE]
+                for salvation ready to be revealed in the last time. <b><i>[FUTURE HOPE]</i></b>
     <b>6</b> In this you greatly rejoice, 
     though now for a little while, if need be, you have been grieved by various trials,
         <b>7</b> that the genuineness of your faith, 
             being much more precious than gold that perishes, 
             though it is tested by fire, 
             may be found to praise, honor, and glory 
-                at the revelation of Jesus Christ, [FUTURE HOPE]
+                at the revelation of Jesus Christ, <b><i>[FUTURE HOPE]</i></b>
 
     <b>8</b> whom having not seen 
         you love.
     Though now you do not see Him, 
         yet believing,
 you rejoice with joy inexpressible and full of glory,
-    <b>9</b> receiving the end of your faith--the salvation of your souls. [FUTURE HOPE]
+    <b>9</b> receiving the end of your faith--the salvation of your souls. <b><i>[FUTURE HOPE]</i></b>
 <b>10</b> Of this salvation the prophets have inquired and searched carefully, 
     who prophesied of the grace that would come to you,
     <b>11</b> searching what, or what manner of time, the Spirit of Christ who was in them was indicating 
         when He testified beforehand 
             the sufferings of Christ 
-            and the glories that would follow. [FUTURE HOPE]
+            and the glories that would follow. <b><i>[FUTURE HOPE]</i></b>
     <b>12</b> To them it was revealed that, 
         not to themselves, 
         but to us 
@@ -49,7 +49,7 @@ you rejoice with joy inexpressible and full of glory,
     <b>13</b> Therefore gird up the loins of your mind, 
     be sober, 
 and rest your hope fully upon the grace that is to be brought to you 
-    at the revelation of Jesus Christ; [FUTURE HOPE]
+    at the revelation of Jesus Christ; <b><i>[FUTURE HOPE]</i></b>
     <b>14</b> as obedient children, 
         not conforming yourselves to the former lusts, as in your ignorance;
         <b>15</b> but as He who called you is holy, 
@@ -59,7 +59,7 @@ and rest your hope fully upon the grace that is to be brought to you
     <b>17</b> And if you call on the Father, 
     who without partiality judges according to each one's work, 
 conduct yourselves throughout the time of your stay here in fear;
-    <b>18</b> knowing that you were not redeemed with corruptible things, [FUTURE HOPE]
+    <b>18</b> knowing that you were not redeemed with corruptible things, <b><i>[FUTURE HOPE]</i></b>
         like silver or gold, 
         from your aimless conduct received by tradition from your fathers,
         <b>19</b> but with the precious blood of Christ, 
@@ -69,13 +69,13 @@ conduct yourselves throughout the time of your stay here in fear;
     but was manifest in these last times for you
         <b>21</b> who through Him believe in God, 
             who raised Him from the dead and gave Him glory, 
-                so that your faith and hope are in God. [FUTURE HOPE]
+                so that your faith and hope are in God. <b><i>[FUTURE HOPE]</i></b>
 
     <b>22</b> Since you have purified your souls in obeying the truth 
         through the Spirit 
         in sincere love of the brethren, 
 love one another fervently with a pure heart,
-    <b>23</b> having been born again, not of corruptible seed but incorruptible, [FUTURE HOPE]
+    <b>23</b> having been born again, not of corruptible seed but incorruptible, <b><i>[FUTURE HOPE]</i></b>
         through the word of God which lives and abides forever,
             <b>24</b> because "All flesh is as grass, 
             And all the glory of man as the flower of the grass. 
@@ -89,7 +89,7 @@ love one another fervently with a pure heart,
         <b>4</b> Coming to Him as to a living stone, 
             rejected indeed by men, but chosen by God and precious,
                 <b>5</b> you also, as living stones, are being built up 
-                    a spiritual house, [FUTURE HOPE]
+                    a spiritual house, <b><i>[FUTURE HOPE]</i></b>
                     a holy priesthood, 
                     to offer up spiritual sacrifices acceptable to God 
                         through Jesus Christ.
@@ -109,11 +109,11 @@ love one another fervently with a pure heart,
                             that you may proclaim the praises of Him who called you out of darkness into His marvelous light;
                             <b>10</b> who once were not a people but are now the people of God, 
                             who had not obtained mercy but now have obtained mercy.
-    <b>11</b> Beloved, I beg you as sojourners and pilgrims, [FUTURE HOPE]
+    <b>11</b> Beloved, I beg you as sojourners and pilgrims, <b><i>[FUTURE HOPE]</i></b>
 abstain from fleshly lusts which war against the soul,
     <b>12</b> having your conduct honorable among the Gentiles, 
         that when they speak against you as evildoers,
-            they may, by your good works which they observe, glorify God in the day of visitation. [FUTURE HOPE]
+            they may, by your good works which they observe, glorify God in the day of visitation. <b><i>[FUTURE HOPE]</i></b>
 <b>13</b> Therefore submit yourselves to every ordinance of man for the Lord's sake, 
     whether to the king as supreme,
     <b>14</b> or to governors, 
@@ -142,7 +142,7 @@ abstain from fleshly lusts which war against the soul,
             <b>22</b> "Who committed no sin, Nor was deceit found in His mouth";
             <b>23</b> who, when He was reviled, did not revile in return; 
             when He suffered, He did not threaten, 
-                but committed Himself to Him who judges righteously; [FUTURE HOPE]
+                but committed Himself to Him who judges righteously; <b><i>[FUTURE HOPE]</i></b>
             <b>24</b> who Himself bore our sins in His own body on the tree, 
                 that we, having died to sins, might live for righteousness--by whose stripes you were healed.
                     <b>25</b> For you were like sheep going astray, 
@@ -155,7 +155,7 @@ abstain from fleshly lusts which war against the soul,
             wearing gold, 
             or putting on fine apparel--
             <b>4</b> rather let it be the hidden person of the heart, 
-                with the incorruptible beauty of a gentle and quiet spirit, [FUTURE HOPE]
+                with the incorruptible beauty of a gentle and quiet spirit, <b><i>[FUTURE HOPE]</i></b>
                     which is very precious in the sight of God.
         <b>5</b> For in this manner, 
             in former times, 
