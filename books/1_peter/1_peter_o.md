@@ -1,8 +1,10 @@
 ## 1 Peter Observations
+
 * The book was written not long after Paul's death
   * likely around the time of Nero - 64
 
 ### 1:1
+
 * The book is from the Apostle Peter
   * it is likely Peter used an amanuensis - _5:12_
     * it has been argued that 5:12 could only be referring to Silvanus as the deliverer of the epistle
@@ -18,10 +20,12 @@
 * Everyone in Asia turned away from Paul - _2 Timothy 1:15_
 
 ### 1:2
+
 * the elect God knew of beforehand
 * peace can be multiplied
 
 ### 1:3
+
 * this hope is living
 * access to living hope is through the resurrection of Jesus Christ
 * Peter includes himself as having the living hope via the pronouns "our" and "us"
@@ -69,7 +73,7 @@
     * and so rejoice
 * past tense "not seen", yet they love
 * present tense "do not see", yet they believe
-    * they have not seen Him yet, but they will see Him in the last time when He is revealed
+  * they have not seen Him yet, but they will see Him in the last time when He is revealed
 * Their joy is inexpressible
 * Their joy is full of glory
 
