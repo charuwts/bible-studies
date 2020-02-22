@@ -1,0 +1,1469 @@
+{
+  "daily": [
+    "Review 10 Memory Verses",
+    "Write Bible Chapter Summary",
+    "Read Bible for 30min",
+    "Read a chapter from resource book",
+    "Work on Gospelteer homework"
+  ],
+  "achievments": [
+    {
+      "title": "Memorize Bible",
+      "achieved": "",
+      "subpoints": [
+        {
+          "title": "Genesis",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "Exodus",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "Leviticus",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "Numbers",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "Deuteronomy",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "Joshua",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "Judges",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "Ruth",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "1 Samuel",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "2 Samuel",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "1 Kings",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "2 Kings",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "1 Chronicles",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "2 Chronicles",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "Ezra",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "Nehemiah",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "Esther",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "Job",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "Psalm",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "Proverbs",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "Ecclesiastes",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "Song of Solomon",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "Isaiah",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "Jeremiah",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "Lamentations",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "Ezekiel",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "Daniel",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "Hosea",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "Joel",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "Amos",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "Obadiah",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "Jonah",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "Micah",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "Nahum",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "Habakkuk",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "Zephaniah",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "Haggai",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "Zechariah",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "Malachi",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "Matthew",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "Mark",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "Luke",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "John",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "Acts",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "Romans",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "1 Corinthians",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "2 Corinthians",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "Galatians",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "Ephesians",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "Philippians",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "Colossians",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "1 Thessalonians",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "2 Thessalonians",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "1 Timothy",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "2 Timothy",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "Titus",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "Philemon",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "Hebrews",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "James",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "1 Peter",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "2 Peter",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "1 John",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "2 John",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "3 John",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "Jude",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+        {
+          "title": "Revelation",
+          "achieved": false,
+          "subpoints": [
+            {
+              "title": "Write book summary",
+              "achieved": false
+            },
+            {
+              "title": "Quote from Memory 30 days",
+              "achieved": false
+            },
+            {
+              "title": "Write each verse with Loci",
+              "achieved": false
+            },
+            {
+              "title": "Write each Chapter Summary",
+              "achieved": false
+            }
+          ]
+        },
+      ]
+    }
+  ]
+}

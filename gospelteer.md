@@ -1,48 +1,37 @@
 # Gospelteer
 
-#### Key
-* " Passage
-* = Summary
-
-* ? Question
-* = Answer
-
 ## 1 The Condition of the Soul in Light of the Nature of God
 
 ### Passage Summaries
-* " Leviticus 11:45
-* = God Commands us to holiness because He is holy
 
-* " 1 Peter 1:15-19
-* = God will judge without partiality
-
-* " Gen 1:27
-* = Man was created in the image of God
-
-* " James 2:8-13
-* = If we fail in one point, we are guilty of the whole law
-
-* " Psalm 7:11-13
-God is angry with the wicked every day
+* __Leviticus 11:45:__ 
+  * God Commands us to holiness because He is holy
+* __1 Peter 1:15-19:__ 
+  * God will judge without partiality
+* __Gen 1:27:__ 
+  * Man was created in the image of God
+* __James 2:8-13:__ 
+  * If we fail in one point, we are guilty of the whole law
+* __Psalm 7:11-13:__ 
+  * God is angry with the wicked every day
 
 ### Q&A
 
-* ? How did “all the world” become guilty before God?
-* = By the Law which brought the the knowledge of sin. (Romans 3:19,20)
-
-* ? What is man’s state in light of his guilt?
-* = Afar off, condemned, separated and enemies of God. (Job 9:19-20, Isaiah 59:2, Ephesians 2:13-17, James 4:4, Matthew 7:23, Matthew 25:41, Luke 13:27, Colossians 1:21)
-
-* ? Is there anything man can do in his own strength to change that? (Isaiah 64:6)
-* = No, all our righteousness is as filthy rags
-
-* ? What is man’s need?
-* = A savior, to be made righteous, that we be brought back into fellowship with God
-
+* __How did “all the world” become guilty before God?:__
+  * By the Law which brought the the knowledge of sin.
+  * (Romans 3:19,20)
+* __What is man’s state in light of his guilt?:__
+  * Afar off, condemned, separated and enemies of God.
+  * (Job 9:19-20, Isaiah 59:2, Ephesians 2:13-17, James 4:4, Matthew 7:23, Matthew 25:41, Luke 13:27, Colossians 1:21)
+* __Is there anything man can do in his own strength to change that? (Isaiah 64:6):__
+  * No, all our righteousness is as filthy rags
+* __What is man’s need?:__
+  * A savior, to be made righteous, that we be brought back into fellowship with God
 
 ## 2. The Law of God - The Command to Holiness
 
 ### Passage Summaries
+
 
 * " Romans 1:19-20, 2:1
 * = We are inexcusable
@@ -54,6 +43,7 @@ God is angry with the wicked every day
 * = There is none that do good
 
 ### Q&A
+
 
 * ? What does it mean to be holy?
 * = It is to be separated "for" God, it is set apart from the world, it is clean, righteous. It is untarnished by sin-- which would would cause to be separate "from" God.
@@ -120,6 +110,7 @@ God is angry with the wicked every day
 
 ### Passage Summaries
 
+
 * " 2 Corinthians 5:21
 * = He became sin who knew no sin
 * " Isaiah 53
@@ -129,6 +120,7 @@ God is angry with the wicked every day
 
 
 ### Q&A
+
 
 * ? What does the word “atonement” mean and where did the concept of atonement originate?
 * ? Why did our redemption depend upon a sacrificial Lamb that was without spot or blemish?
@@ -143,6 +135,7 @@ God is angry with the wicked every day
 
 ### Passage Summaries
 
+
 * " Romans 5:6-11
 * = We were reconciled to God by His death
 * " Colossians 1:21-22
@@ -150,6 +143,7 @@ God is angry with the wicked every day
 
 
 ### Q&A
+
 
 * ? What is the true meaning of reconciliation in the context of the Gospel?
 * = Restoration of right relationship with God
@@ -160,6 +154,7 @@ God is angry with the wicked every day
 ## 7. The Atonement - The Precious Blood of Christ
 
 ### Passage Summaries
+
 
 * " 1 Peter 18-21
 * = We are redeemed by the precious blood of Christ
@@ -173,6 +168,7 @@ God is angry with the wicked every day
 * = He washed us from our sins in His own blood
 
 ### Q&A
+
 
 
 What was the Precious Blood of Christ for?
@@ -232,6 +228,7 @@ What was the Precious Blood of Christ for?
 
 ### Passage Summaries
 
+
 * " Ezekiel 14:6
 * = The Lord God says repent
 * " Acts 3:19
@@ -243,6 +240,7 @@ What was the Precious Blood of Christ for?
 
 
 ### Q&A
+
 
 * ? How did the disciples handle this topic in the book of Acts?
 * =  (Act 26:20)
@@ -256,7 +254,9 @@ What was the Precious Blood of Christ for?
 
 ### Passage Summaries
 
+
 ### Q&A
+
 
 
 
@@ -265,7 +265,9 @@ What was the Precious Blood of Christ for?
 
 ### Passage Summaries
 
+
 ### Q&A
+
 
 
 
@@ -275,7 +277,9 @@ What was the Precious Blood of Christ for?
 
 ### Passage Summaries
 
+
 ### Q&A
+
 
 
 
@@ -284,7 +288,9 @@ What was the Precious Blood of Christ for?
 
 ### Passage Summaries
 
+
 ### Q&A
+
 
 
 
@@ -293,7 +299,9 @@ What was the Precious Blood of Christ for?
 
 ### Passage Summaries
 
+
 ### Q&A
+
 
 
 
@@ -302,7 +310,9 @@ What was the Precious Blood of Christ for?
 
 ### Passage Summaries
 
+
 ### Q&A
+
 
 
 
@@ -311,7 +321,9 @@ What was the Precious Blood of Christ for?
 
 ### Passage Summaries
 
+
 ### Q&A
+
 
 
 
@@ -320,7 +332,9 @@ What was the Precious Blood of Christ for?
 
 ### Passage Summaries
 
+
 ### Q&A
+
 
 
 
@@ -329,7 +343,9 @@ What was the Precious Blood of Christ for?
 
 ### Passage Summaries
 
+
 ### Q&A
+
 
 
 
@@ -338,7 +354,9 @@ What was the Precious Blood of Christ for?
 
 ### Passage Summaries
 
+
 ### Q&A
+
 
 
 
@@ -347,7 +365,9 @@ What was the Precious Blood of Christ for?
 
 ### Passage Summaries
 
+
 ### Q&A
+
 
 
 
@@ -356,7 +376,9 @@ What was the Precious Blood of Christ for?
 
 ### Passage Summaries
 
+
 ### Q&A
+
 
 
 
@@ -365,7 +387,9 @@ What was the Precious Blood of Christ for?
 
 ### Passage Summaries
 
+
 ### Q&A
+
 
 
 
@@ -374,7 +398,9 @@ What was the Precious Blood of Christ for?
 
 ### Passage Summaries
 
+
 ### Q&A
+
 
 
 
@@ -383,7 +409,9 @@ What was the Precious Blood of Christ for?
 
 ### Passage Summaries
 
+
 ### Q&A
+
 
 
 
@@ -392,7 +420,9 @@ What was the Precious Blood of Christ for?
 
 ### Passage Summaries
 
+
 ### Q&A
+
 
 
 
@@ -401,7 +431,9 @@ What was the Precious Blood of Christ for?
 
 ### Passage Summaries
 
+
 ### Q&A
+
 
 
 
@@ -410,7 +442,9 @@ What was the Precious Blood of Christ for?
 
 ### Passage Summaries
 
+
 ### Q&A
+
 
 
 
@@ -419,7 +453,9 @@ What was the Precious Blood of Christ for?
 
 ### Passage Summaries
 
+
 ### Q&A
+
 
 
 
@@ -428,7 +464,9 @@ What was the Precious Blood of Christ for?
 
 ### Passage Summaries
 
+
 ### Q&A
+
 
 
 
@@ -437,7 +475,9 @@ What was the Precious Blood of Christ for?
 
 ### Passage Summaries
 
+
 ### Q&A
+
 
 
 
@@ -446,7 +486,9 @@ What was the Precious Blood of Christ for?
 
 ### Passage Summaries
 
+
 ### Q&A
+
 
 
 
@@ -455,7 +497,9 @@ What was the Precious Blood of Christ for?
 
 ### Passage Summaries
 
+
 ### Q&A
+
 
 
 
@@ -464,7 +508,9 @@ What was the Precious Blood of Christ for?
 
 ### Passage Summaries
 
+
 ### Q&A
+
 
 
 
@@ -473,7 +519,9 @@ What was the Precious Blood of Christ for?
 
 ### Passage Summaries
 
+
 ### Q&A
+
 
 
 

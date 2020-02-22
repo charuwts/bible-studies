@@ -13,7 +13,7 @@
   * Aquila was born in Pontus - _Acts 18:2_
 * Paul was withheld from going to Asia and Bithynia after going through the region of Galatia - _Acts 16:6-7_
   * The regions were reached directly or indirectly via the ministry of Paul
-* Asia is made up of Jews and Greeks - _Acts 9:10_
+* Asia is made up of Jews and Greeks - _Acts 18:2-4, 19:10_
   * The gospel spread throughout Asia while Paul reasoned daily in the school of Tyrannus
     * This could be the result of people coming to him or believer's going out from there or both
 * The regions being written to consisted of Gentiles and Jews
