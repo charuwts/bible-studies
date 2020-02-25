@@ -84,9 +84,13 @@ Abraham journeyed from there to the south and dwelt between Kadesh and Shur, and
 
 ### Genesis 21 short summary -
 
-Sarah bore Abraham a son in his old age, at the set time of which God had spoken to him. Sarah said cast out the bondwoman. God said to Abraham in Isaac your seed shall be called. Hagar departs and wondered in the Wilderness of Beersheba and an angel of God call to Hagar out of heaven.
+Sarah bore Abraham a son in his old age, at the set time of which God had spoken to him. Sarah said cast out the bondwoman. God said to Abraham in Isaac your seed shall be called. Hagar departs and wandered in the Wilderness of Beersheba and an angel of God called to Hagar out of heaven.
 
 ### Genesis 22 short summary -
+
+God tested Abraham. God tells Moses to go to the land of Moriah and offer his son Isaac there as a burnt offering. Abraham called the name of the place, The-LORD-Will-Provide. God says "In your seed all the nations of the earth shall be blessed, because you have obeyed My voice.". Abraham is told of his brother Nahor's children.
+
+### Genesis 23 short summary -
 
 ## Titus
 
