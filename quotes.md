@@ -10,4 +10,6 @@
 
 ### Ideas
 
-Let as many of your ideas as possible be the representation of things, and not merely the representation of other men's ideas : thus your soul, like some noble building, shall be richly furnished  with original paintings, and not with mere copies
+Let as many of your ideas as possible be the representation of things, and not merely the representation of other men's ideas : thus your soul, like some noble building, shall be richly furnished  with original paintings, and not with mere copies. __Logic, The Right Use Of Reason In The Inquiry After Truth, pg 71__
+
+A clear and distinct idea is that which represents the object of the mind with full evidence and strength, and plainly distinguishes it from all other objects whatsoever. __Logic, The Right Use Of Reason In The Inquiry After Truth, pg 39__
