@@ -4,15 +4,15 @@
 
 ### Passage Summaries
 
-* __Leviticus 11:45:__ 
+* __Leviticus 11:45:__
   * God Commands us to holiness because He is holy
-* __1 Peter 1:15-19:__ 
+* __1 Peter 1:15-19:__
   * God will judge without partiality
-* __Gen 1:27:__ 
+* __Gen 1:27:__
   * Man was created in the image of God
-* __James 2:8-13:__ 
+* __James 2:8-13:__
   * If we fail in one point, we are guilty of the whole law
-* __Psalm 7:11-13:__ 
+* __Psalm 7:11-13:__
   * God is angry with the wicked every day
 
 ### Q&A
@@ -24,9 +24,14 @@
   * Afar off, condemned, separated and enemies of God.
   * (Job 9:19-20, Isaiah 59:2, Ephesians 2:13-17, James 4:4, Matthew 7:23, Matthew 25:41, Luke 13:27, Colossians 1:21)
 * __Is there anything man can do in his own strength to change that? (Isaiah 64:6):__
-  * No, all our righteousness is as filthy rags
+  * No, we are without hope and all our righteousness is as filthy rags
+  * (Ephesians 2:12, Isaiah 64:6)
 * __What is man’s need?:__
   * A savior, to be made righteous, that we be brought back into fellowship with God
+
+Man's iniquities have separated them from God and made them enemies of God. Without hope in the world, having no ability to produce any true righteousness of their own. All have sinned, there is none that do good. In light of God's holiness and wrath there would be only just condemnation toward all of mankind. However, it is because of the mercy of God that the wrath to come can be fled from, because of the work of Christ there is a way to be made right with God and thus bring man into a condition of peace with God. Only because of His love and grace, not by any works that man could do. The condition of man can only be in one of two camps, there are no alternatives; A slave of God, or a slave to sin. (Romans 6) It is a great deception in man's mind to think he has control of his life. The soul is always a slave to something, and in light of God's nature the only option set before man is to choose whom to serve.
+
+The soul without God is dead. For if Christ is life, apart from Him we do not have life.
 
 ## 2. The Law of God - The Command to Holiness
 
