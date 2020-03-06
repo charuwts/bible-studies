@@ -82,6 +82,16 @@
 * __2 What it includes__
 * __3 How it fits__
 
+## Interpretation
+
+### Salvation Of Their Souls
+
+* They rejoice with joy inexpressible and full of glory.
+  * Ths joy comes from the expectant coming of the Lord
+  * They will receive the expected end, their salvation
+    * This salvation is the sufferings of Christ and glories to follow
+    * The good news of this salvation is something that was preached by the Holy spirt and is something they ought to rest their hope in.
+
 
 ## Application
 

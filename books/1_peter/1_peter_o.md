@@ -22,12 +22,17 @@
 ### 1:2
 
 * the elect God knew of beforehand
-* peace can be multiplied
+* they were elect by the sanctification of the Spirit
+* it was for obedience to Christ that they were sanctified
+* and to be sprinkled with His blood
+* it is possible that peace be multiplied; obtained more; be had in greater measure
 
 ### 1:3
 
-* this hope is living
+* it is according to God's mercy that they have been born again
+  * to a living hope
 * access to living hope is through the resurrection of Jesus Christ
+  * Jesus Christ was resurected from the dead
 * Peter includes himself as having the living hope via the pronouns "our" and "us"
 
 ### 1:4
@@ -45,6 +50,7 @@
   * through faith
   * by the power of God
 * salvation will be revealed in the last time
+  * there is something in the future they will be saved from
 * the reference to last time is significant, this topic is mentioned often throughout the book
 
 ### 1:6
