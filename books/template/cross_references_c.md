@@ -1,4 +1,4 @@
-## 2 Peter Cross References
+# Template Cross References
 
 | Book         | Passage  | Category  | Connection                                        | References                         |
 |--------------|----------|-----------|---------------------------------------------------|------------------------------------|

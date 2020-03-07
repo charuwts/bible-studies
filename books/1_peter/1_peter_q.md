@@ -1,8 +1,12 @@
-## 1 Peter Questions
+# 1 Peter Questions
+
+## General
 
 What category of people are the gentiles in this book?
 What is the reason for obedience in each proposition?
 What was cut off? (Sariana)
+
+## By Verse
 
 ### 1:1
 

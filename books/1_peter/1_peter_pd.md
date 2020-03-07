@@ -1,7 +1,7 @@
-## 1 Peter Propositional Diagram
+# 1 Peter Propositional Diagram
 
+## NKJV
 
-### NKJV
 <pre>
     <b>CH1</b> Peter, an apostle of Jesus Christ, 
 To the pilgrims of the Dispersion 

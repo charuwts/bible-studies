@@ -1,3 +1,3 @@
-## 2 Peter Propositional Diagram
+# Template Propositional Diagram
 
-### NKJV
+## NKJV

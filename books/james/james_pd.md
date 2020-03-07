@@ -1,6 +1,6 @@
-## James Propositional Diagram
+# James Propositional Diagram
 
-### NKJV
+## NKJV
 
 <pre>
     <b>CH1</b> James, a bondservant of God and of the Lord Jesus Christ, 

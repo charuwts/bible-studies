@@ -1,2 +1,7 @@
-## 2 Peter Observations
+# 2 Peter Observations
+
+## General
+
+## By Verse
+
 ### 1:1

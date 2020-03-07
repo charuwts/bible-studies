@@ -1,16 +1,15 @@
-## James Interpretation and Application
+# James Interpretation and Application
 
-#### Underlying Theme and Sub Topics
+## Underlying Theme and Sub Topics
 
-* __Theme__: 
-* __Topics__ 
+* __Theme__:
+* __Topics__
   * Tongue
   * Rich
   * Poor
 
-#### Possible Pericope's
+## Possible Pericope's
 
-#### Interpretation
+## Interpretation
 
-#### Application
-
+## Application

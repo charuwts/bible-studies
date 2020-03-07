@@ -1,7 +1,11 @@
-## 1 Peter Observations
+# 1 Peter Observations
+
+## General
 
 * The book was written not long after Paul's death
   * likely around the time of Nero - 64
+
+## By Verse
 
 ### 1:1
 

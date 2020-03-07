@@ -3,7 +3,7 @@
 ## Underlying Theme and Sub Topics
 
 * __Theme__: Future Hope
-* __Topics__ 
+* __Topics__
   * Holiness
   * Glory
   * Suffering
