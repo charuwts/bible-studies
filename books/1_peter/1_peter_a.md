@@ -49,6 +49,20 @@
 * __3 How it fits__
   * This inheritance is incorruptible and reserved in heaven, it is very tightly associated with their future hope
 
+### In Regards To The Salvation
+* __1 About it__
+  * _2Co 6:2_
+    * Salvation has been obtained
+  * _Phl 2:12, 1Co 1:18, Heb 2:3_
+    * Salvation is in progress
+  * _Heb 9:28, 1Pe 1:5,9_
+    * Salvation is to come
+* They rejoice with joy inexpressible and full of glory.
+  * Ths joy comes from the expectant coming of the Lord
+  * They will receive the expected end, their salvation
+    * This salvation is the sufferings of Christ and glories to follow
+    * The good news of this salvation is something that was preached by the Holy spirt and is something they ought to rest their hope in.
+
 ### In Regards to Hope
 
 * __1 About it__
@@ -81,17 +95,6 @@
   * Peter's use of Pilgrims seems to be in referrence to the heavenly home sort of pilgrims mentioned in Hebrews, as there wouldn't be much reason to appeal to being pilgrims of a earthly land as a reason to obstain from fleshly lust - 2:11
 * __2 What it includes__
 * __3 How it fits__
-
-## Interpretation
-
-### Salvation Of Their Souls
-
-* They rejoice with joy inexpressible and full of glory.
-  * Ths joy comes from the expectant coming of the Lord
-  * They will receive the expected end, their salvation
-    * This salvation is the sufferings of Christ and glories to follow
-    * The good news of this salvation is something that was preached by the Holy spirt and is something they ought to rest their hope in.
-
 
 ## Application
 
