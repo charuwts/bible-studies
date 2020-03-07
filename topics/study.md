@@ -37,13 +37,23 @@
 
 ## Interpretation
 
-What did the text mean to the original audience
-
-What is the eternal truth being reasoned from?
+1. What did the text mean to the original audience? 
+1. What is the primary proposition?
+1. What is the eternal truth being reasoned from?
+1. What was the expected response?
+    * Why?
+    * How was this conveyed?
+1. What biblical historic context is significant?
+    * What makes it significant for them?
+    * Is it significant for us?
 
 ## Application
 
-How does the eternal truth apply to us?
+1. What does it mean for us?
+1. How does the eternal truth apply to us?
+1. Are we to respond in the same way?
+    * Why? Why not?
+    * In what way should we then?
 
 ### Greek Text is not necessary
 
