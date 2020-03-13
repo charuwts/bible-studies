@@ -37,7 +37,7 @@
 
 ## Interpretation
 
-1. What did the text mean to the original audience? 
+1. What did the text mean to the original audience?
 1. What is the primary proposition?
 1. What is the eternal truth being reasoned from?
 1. What was the expected response?
@@ -55,8 +55,21 @@
     * Why? Why not?
     * In what way should we then?
 
-### Greek Text is not necessary
-
 ## Exhortation
 
-Titus 1:1 Hold fast the faithful word as he has been tought
+* Titus 1:1 Hold fast the faithful word as he has been tought
+
+## Relay Teachings
+
+* Give examples
+* Present question, give time to process and then have each student share
+
+### How to Observe
+
+### How to Interprete
+
+### How to Apply
+
+* A few applications from 1 Peter 1
+* Place for commentaries
+* Touch on Spiritual Disciplines (Prayer, Meditation, Memory)
