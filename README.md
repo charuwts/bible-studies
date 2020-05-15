@@ -9,3 +9,8 @@
 - [Cross References](books/1_peter/1_peter_c.md)
 - [Questions](books/1_peter/1_peter_q.md)
 - [Insights and Application](books/1_peter/1_peter_a.md)
+
+## Topical Studies
+
+- [Bible Chapter Summaries](overviews/bible_chapter_summaries.md)
+- [Gospelteer](overviews/gospelteer.md)

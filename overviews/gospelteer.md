@@ -1,8 +1,8 @@
 # Gospelteer
 
-## 1 The Condition of the Soul in Light of the Nature of God
+## 1. The Condition of the Soul in Light of the Nature of God
 
-### Passage Summaries
+### 1. Passage Summaries
 
 * __Leviticus 11:45:__
   * God Commands us to holiness because He is holy
@@ -15,7 +15,7 @@
 * __Psalm 7:11-13:__
   * God is angry with the wicked every day
 
-### Q&A
+### 1. Q&A
 
 * __How did “all the world” become guilty before God?:__
   * By the Law which brought the the knowledge of sin.
@@ -35,8 +35,7 @@ The soul without God is dead. For if Christ is life, apart from Him we do not ha
 
 ## 2. The Law of God - The Command to Holiness
 
-### Passage Summaries
-
+### 2. Passage Summaries
 
 * " Romans 1:19-20, 2:1
 * = We are inexcusable
@@ -47,7 +46,7 @@ The soul without God is dead. For if Christ is life, apart from Him we do not ha
 * " Psalm 14, Psalm 53
 * = There is none that do good
 
-### Q&A
+### 2. Q&A
 
 
 * ? What does it mean to be holy?

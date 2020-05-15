@@ -52,8 +52,8 @@
 1. What does it mean for us?
 1. How does the eternal truth apply to us?
 1. Are we to respond in the same way?
-    * Why? Why not?
-    * In what way should we then?
+   * Why? Why not?
+   * In what way should we then?
 
 ## Exhortation
 
@@ -62,6 +62,12 @@
 ## Relay Teachings
 
 * Give examples
+  * We observe that Peter calls them christians of faith
+    * We interpret that the rejoicing is because of that faith in Christ's return
+    * We are also christians that can look to the hope of our Lord's return and rejoice!
+  * We observe that Peter commands them to be sober
+    * We interpret that He is doing this an an exhortation to them from the scriptures based on an eternal truth
+    * We can also be exhorted and exhort others to be sober
 * Present question, give time to process and then have each student share
 
 ### How to Observe

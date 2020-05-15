@@ -187,5 +187,10 @@
 
 ## Commentary
 
-#### 2:1-2
+### 2:1-2
+
 * laying aside fleshly things is necessary for desiring the Word and growing in it.
+
+### 1:13
+
+To gird up the loins, (make ready for action). Like one who prepares for the task ahead. E.g. As a man trains himself to work with his hands in order to provide for his family. As an athlete excersizes daily to strengthen the body for competition.

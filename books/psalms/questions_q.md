@@ -6,7 +6,6 @@
 
 ### 132:3
 
-
 ### 132:18
 
 * Who is "Himself" referring to?
