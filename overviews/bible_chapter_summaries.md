@@ -50,23 +50,23 @@ The whole earth had one language and one speech. They said: "Come let us build o
 
 Abram will be blessed and be a blessing. Abram and Lot depart from Haran, to the land of Canaan, as far as the terebinth tree of Moreh, the Lord appeared and said to Abram, "To your descendants I will give this land". Abram built an alter to the Lord. There was severe famine. The Egyptians saw that Sarai was very beautiful. The Lord plagued Pharaoh and his house because of Sarai. Pharaoh questions Abram then sends him away with his wife and all that he had.
 
-### Genesis 13 short summary -
+### Genesis 13 short summary - ABUNDANCE
 
 Abram was very rich in livestock, in silver and in gold. Abram called on the name of the Lord. Abram and Lot's possessions were so great that they could not dwell together. They separated from each other. Abram dwelt in the land of Canaan, and Lot dwelt in the cities of the plain. God said to Abram that he will make Abram's descendants as the dust of the earth and gave the land to him. Then Abram moved his tent and went and dwelt by the terebinth trees of Mamre.
 
-### Genesis 14 short summary -
+### Genesis 14 short summary - WAR
 
 The kings made war with kings. They joined together in battle in the valley of Siddim, there were asphalt pits. Sodom and Gomorrah fled; some fell there, the remainder fled to the mountains. Lot was taken who dwelt in Sodom. Abram heard his brother was taken captive, armed his servants and went in pursuit as far as Dan. So he brought back everything that was taken.  Melchizedek blesses Abram.
 
-### Genesis 15 short summary -
+### Genesis 15 short summary - SHIELD
 
 The Lord came to Abram in a vision saying, "Do not be afraid, Abram. I am your shield, your exceeding great reward". God says Abram will have descendants numbered as many as the stars. Abram believed in the Lord, and He accounted it to him for righteousness. The Lord tells Abram that his descendants will be strangers in the land and serve a nation whom the Lord will judge. On the same day the Lord made a covenant with Abram, saying: "To your descendants I have given this land, ..."
 
-### Genesis 16 short summary -
+### Genesis 16 short summary - HAGAR
 
 Sarai, Abram's wife, had borne him no children. Sarai dealt harshly with Hagar. An angel of the Lord speaks to Hagar by a spring of water on the way to Shur. Hagar bore Abram a son, and Abram named his son, whom Hagar bore, Ishmael.
 
-### Genesis 17 short summary -
+### Genesis 17 short summary - 
 
 When Abram was ninety-nine years old, the Lord appeared to Abram and said to him, “I am Almighty God; walk before Me and be blameless. And I will make My covenant between Me and you, and will multiply you exceedingly.” Then Abram fell on his face and God talked to him... “No longer shall your name be called Abram, but your name shall be Abraham...” ... “And I will establish My covenant between Me and you and your descendants after you in their generations, for an everlasting covenant, to be God to you and your descendants after you.” ... “As for Sarai your wife, you shall not call her name Sarai, but Sarah shall be her name” ... “...Sarah your wife shall bear you a son, and you shall call his name Isaac...”
 
@@ -98,7 +98,7 @@ God tested Abraham. God tells Moses to go to the land of Moriah and offer his so
 
 Paul, a bondservant of God. To Titus, a true son in their common faith. Paul left Titus in Create, that he should set in order the things that are lacking and appoint elders in every city. Qualifications for a biship. There are many insubordinate.
 
-### Titus 2 short summary -
+### Titus 2 short summary - 
 
 ### 1 Peter 1 short summary - Hope
 
