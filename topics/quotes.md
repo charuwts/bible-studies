@@ -10,7 +10,7 @@
 
 ### Ideas
 
-Let as many of your ideas as possible be the representation of things, and not merely the representation of other men's ideas : thus your soul, like some noble building, shall be richly furnished  with original paintings, and not with mere copies. __Logic, The Right Use Of Reason In The Inquiry After Truth, pg 71__
+The way of attaining an extensive treasure of ideas is, with diligence to apply yourself to read the best books, converse with the most knowing and the wisest of men, and endeavour to improve by every person in whose company you are ; suffer no hour to pass away in a lazy idleness, and impertinent chattering, or useless trifles ; visit other cities and countries, when you have seen your own, under the care of one who can teach you to profit by travelling, and to make wise observations ; indulge a little curiosity in seeing the wonders of art and nature ; search into things yourselves, as well as learn them from others ; be acquainted  with men as well as books ; learn all things as much as you can at first hand ; and let as many of your ideas as possible be the representation of things, and not merely the representation of other men's ideas : thus your soul, like some noble building, shall be richly furnished with original paintings, and not with mere copies. __Logic, The Right Use Of Reason In The Inquiry After Truth, pg 71__
 
 A clear and distinct idea is that which represents the object of the mind with full evidence and strength, and plainly distinguishes it from all other objects whatsoever. __Logic, The Right Use Of Reason In The Inquiry After Truth, pg 39__
 
