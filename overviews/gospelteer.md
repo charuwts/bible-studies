@@ -29,6 +29,18 @@
 * __What is man’s need?:__
   * A savior, to be made righteous, that we be brought back into fellowship with God
 
+### 1. Key Words
+
+**Nature:** Sacred, separate, set-apart.
+
+**Soul:** A living being, life (Gen 2:7, Gen 35:18), self (Gen 49:6), person, desire, appetite, emotion (Gen 42:21). While not entirely clear what the difference 
+
+### 1. Thesis Statement
+
+Sustained by God the creator and judge, man's rebellious soul is hopelessly lost without a merciful savior.
+
+### 1. Short Summary
+
 Man's iniquities have separated them from God and made them enemies of God. Without hope in the world, having no ability to produce any true righteousness of their own. All have sinned, there is none that do good. In light of God's holiness and wrath there would be only just condemnation toward all of mankind. However, it is because of the mercy of God that the wrath to come can be fled from, because of the work of Christ there is a way to be made right with God and thus bring man into a condition of peace with God. Only because of His love and grace, not by any works that man could do. The condition of man can only be in one of two camps, there are no alternatives; A slave of God, or a slave to sin. (Romans 6) It is a great deception in man's mind to think he has control of his life. The soul is always a slave to something, and in light of God's nature the only option set before man is to choose whom to serve.
 
 The soul without God is dead. For if Christ is life, apart from Him we do not have life.
