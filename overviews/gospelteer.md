@@ -31,7 +31,9 @@
 
 ### 1. Key Words
 
-**Nature:** Sacred, separate, set-apart.
+**Holy:** Sacred, separate, set-apart.
+
+**Nature:** The essence, essential qualities or attributes of a thing, which constitute it what it is.
 
 **Soul:** A living being, life (Gen 2:7, Gen 35:18), self (Gen 49:6), person, desire, appetite, emotion (Gen 42:21). While not entirely clear what the difference
 
