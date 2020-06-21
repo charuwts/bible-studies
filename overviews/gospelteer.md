@@ -33,7 +33,7 @@
 
 **Nature:** Sacred, separate, set-apart.
 
-**Soul:** A living being, life (Gen 2:7, Gen 35:18), self (Gen 49:6), person, desire, appetite, emotion (Gen 42:21). While not entirely clear what the difference 
+**Soul:** A living being, life (Gen 2:7, Gen 35:18), self (Gen 49:6), person, desire, appetite, emotion (Gen 42:21). While not entirely clear what the difference
 
 ### 1. Thesis Statement
 
@@ -49,17 +49,16 @@ The soul without God is dead. For if Christ is life, apart from Him we do not ha
 
 ### 2. Passage Summaries
 
-* " Romans 1:19-20, 2:1
-* = We are inexcusable
+* __Romans 1:19-20, 2:1__
+  * We are inexcusable
 
-* " Romans 3:19-26
-* = All have sinned, and come short of the glory of God
+* __Romans 3:19-26__
+  * All have sinned, and come short of the glory of God
 
-* " Psalm 14, Psalm 53
-* = There is none that do good
+* __Psalm 14, Psalm 53__
+  * There is none that do good
 
 ### 2. Q&A
-
 
 * ? What does it mean to be holy?
 * = It is to be separated "for" God, it is set apart from the world, it is clean, righteous. It is untarnished by sin-- which would would cause to be separate "from" God.
@@ -71,24 +70,22 @@ The soul without God is dead. For if Christ is life, apart from Him we do not ha
 * = Not to eat of the tree of the knowledge of good and evil
 * = or officially, the ten commandments beginning with "you shall have no other gods before me." (Exodus 20)
 
-
 ## 3. The Fall - Sin and the Wrath of God
 
+* __John 3:36__
+  * the wrath of God is on those who do not believe
 
-* " John 3:36
-* = the wrath of God is on those who do not believe
+* __Ephesians 2:1-3__
+  * We were dead in our transgressions and by nature objects of wrath
 
-* " Ephesians 2:1-3
-* = We were dead in our transgressions and by nature objects of wrath
+* __Ephesians 5:6, Colossians 3:6 * Romans 6__
+  * The wrath of God is on the sons of disobedience
 
-* " Ephesians 5:6, Colossians 3:6 * Romans 6
-* = The wrath of God is on the sons of disobedience
+* __2 Kings 22:13__
+  * Wrath is on them because they have not obeyed the word of God
 
-* " 2 Kings 22:13
-* = Wrath is on them because they have not obeyed the word of God
-
-* " 2 Chronicles 12
-* = God's wrath did not come about because they humbled themselves
+* __2 Chronicles 12__
+  * God's wrath did not come about because they humbled themselves
 
 * ? What was man’s initial state before God?
 * = He was in fellowship, He walked with God
@@ -105,38 +102,32 @@ The soul without God is dead. For if Christ is life, apart from Him we do not ha
 * ? Why did sin incur the wrath of God upon man?
 * =
 
-
 ## 4. The Incarnation - Jesus - Fully Man and Fully God
 
+* __John 1:1-4, 14__
+  * The word was God, the word became flesh
 
-* " John 1:1-4, 14
-* = The word was God, the word became flesh
+* __Philipians 2__
+  * Jesus came as a man
 
-* " Philipians 2
-* = Jesus came as a man
-
-* " Colossians 1:15-20, see also Romans 11:36, Hebrews 1
-* = All things were created through Him
+* __Colossians 1:15-20, see also Romans 11:36, Hebrews 1__
+  * All things were created through Him
 
 * ? Why is it important to know that Christ was fully man and fully God?
 * =
 
-
 ## 5. The Atonement - The Perfect Man Became the Perfect Sin-Offering
 
-### Passage Summaries
+### 5. Passage Summaries
 
+* __2 Corinthians 5:21__
+  * He became sin who knew no sin
+* __Isaiah 53__
+  * He was an offering for sin
+* __Hebrews 10:18-23__
+  * There is remission for sins, by the blood of Jesus
 
-* " 2 Corinthians 5:21
-* = He became sin who knew no sin
-* " Isaiah 53
-* = He was an offering for sin
-* " Hebrews 10:18-23
-* = There is remission for sins, by the blood of Jesus
-
-
-### Q&A
-
+### 5. Q&A
 
 * ? What does the word “atonement” mean and where did the concept of atonement originate?
 * ? Why did our redemption depend upon a sacrificial Lamb that was without spot or blemish?
@@ -145,47 +136,38 @@ The soul without God is dead. For if Christ is life, apart from Him we do not ha
 * ? What did Jesus actually accomplish on the cross when he “became sin”?
 * = He bore our iniquities and has made us righteous by his blood. The sacrifice reconciled us to God.
 
-
-
 ## 6. The Atonement - Reconciled to God
 
-### Passage Summaries
+### 6. Passage Summaries
 
+* __Romans 5:6-11__
+  * We were reconciled to God by His death
+* __Colossians 1:21-22__
+  * Reconciled through His death
 
-* " Romans 5:6-11
-* = We were reconciled to God by His death
-* " Colossians 1:21-22
-* = Reconciled through His death
-
-
-### Q&A
-
+### 6. Q&A
 
 * ? What is the true meaning of reconciliation in the context of the Gospel?
 * = Restoration of right relationship with God
 * ? What all is included is the word reconciled? What is the ministry of reconciliation?
 * ? Meditate and comment on Rom. 5:10.
 
-
 ## 7. The Atonement - The Precious Blood of Christ
 
-### Passage Summaries
+### 7. Passage Summaries
 
+* __1 Peter 18-21__
+  * We are redeemed by the precious blood of Christ
+* __Ephesians 2:13__
+  * We have been brought near
+* __Hebrews 9:14__
+  * our conscience is cleansed from dead works to serve the living God
+* __1 John 1:7__
+  * the blood of Jesus Christ cleanses us from all sin
+* __Revelation 1:5__
+  * He washed us from our sins in His own blood
 
-* " 1 Peter 18-21
-* = We are redeemed by the precious blood of Christ
-* " Ephesians 2:13
-* = We have been brought near
-* " Hebrews 9:14
-* = our conscience is cleansed from dead works to serve the living God
-* " 1 John 1:7
-* = the blood of Jesus Christ cleanses us from all sin
-* " Revelation 1:5
-* = He washed us from our sins in His own blood
-
-### Q&A
-
-
+### 7. Q&A
 
 What was the Precious Blood of Christ for?
 
@@ -210,18 +192,14 @@ What was the Precious Blood of Christ for?
 19. for boldness to enter in to the Holy of Holies , the very presence of God (Hebrews 10:19)
 20. for the purpose of enabling us to make our daily, hourly, minute-by-minute Christ Jesus (John 6:56)
 
-
-
-
 ## 8. The Resurrection & Ascension - Jesus is Victorious Over Sin and Death and Reigns as King in the Heavens at the Right Hand of God
 
-* " Acts 2:23-24
-* = Death could not hold Him
-* " Ephesians 1:20-23
-* = All things are under His feet
-* " 1 Corinthians 15:55-57
-* = Death where is your sting
-
+* __Acts 2:23-24__
+  * Death could not hold Him
+* __Ephesians 1:20-23__
+  * All things are under His feet
+* __1 Corinthians 15:55-57__
+  * Death where is your sting
 
 * ? How was it that Jesus was able to overcome death?
 * = because it was not possible that he should be held by it (Acts 2:24)
@@ -238,25 +216,20 @@ What was the Precious Blood of Christ for?
 * ? What is the significance of Jesus’ ascension in light of this that He said to His disciples: “. . . for if I go not away, the Comforter will not come unto you; but if I depart, I will send him unto you.” Why could not the Holy Spirit come prior to the ascension of Christ?
 * =
 
-
-
 ## 9. Repent - To Change One’s Mind / To Turn
 
-### Passage Summaries
+### 9. Passage Summaries
 
+* __Ezekiel 14:6__
+  * The Lord God says repent
+* __Acts 3:19__
+  * Repent and be converted, that your sins may be blotted out
+* __Acts 17:30__
+  * God commands men everywere to repent
+* __Matthew 3:2, Matthew 4:17, Mark 1:15__
+  * Repent for the kingdom of heaven is at hand
 
-* " Ezekiel 14:6
-* = The Lord God says repent
-* " Acts 3:19
-* = Repent and be converted, that your sins may be blotted out
-* " Acts 17:30
-* = God commands men everywere to repent
-* " Matthew 3:2, Matthew 4:17, Mark 1:15
-* = Repent for the kingdom of heaven is at hand
-
-
-### Q&A
-
+### 9. Q&A
 
 * ? How did the disciples handle this topic in the book of Acts?
 * =  (Act 26:20)
@@ -265,279 +238,152 @@ What was the Precious Blood of Christ for?
 * ? What does it mean to turn from something?
 * =  (Colossians 1:13) To turn from something requires turning to something else. Away from kingdom of darkness, into the kingdom of light. Admit wrong, turn, and do good.
 
-
 ## 10. Repent - Confession of Sins
 
-### Passage Summaries
+### 10. Passage Summaries
 
+### 10. Q&A
 
-### Q&A
+## 11. Repent - Forgiving those who sin against us
 
+### 11. Passage Summaries
 
+### 11. Q&A
 
+## 12. Repent - Forsake/Renounce Old Life of Sin/Idolatry
 
+### 12. Passage Summaries
 
-## 11. Repent - Forgiving those who sin against us.
-
-### Passage Summaries
-
-
-### Q&A
-
-
-
-
-
-
-## 12 - Repent - Forsake/Renounce Old Life of Sin/Idolatry
-
-### Passage Summaries
-
-
-### Q&A
-
-
-
-
+### 12. Q&A
 
 ## 13 - Believe - Place Full Confidence and Faith in the Person and Work of Christ
 
-### Passage Summaries
+### 13. Passage Summaries
 
-
-### Q&A
-
-
-
-
+### 13. Q&A
 
 ## 14 - Confess Lord - Put on Jesus
 
-### Passage Summaries
+### 14. Passage Summaries
 
-
-### Q&A
-
-
-
-
+### 14. Q&A
 
 ## 15 - The Law of Sin and Death
 
-### Passage Summaries
+### 15. Passage Summaries
 
+### 15. Q&A
 
-### Q&A
+## 16. Reckoning - Crucified with Christ
 
+### 16. Passage Summaries
 
+### 16. Q&A
 
+## 17. Reckoning - Resurrected in Christ
 
+### 17. Passage Summaries
 
-## 16 - Reckoning - Crucified with Christ
+### 17. Q&A
 
-### Passage Summaries
+## 18. Spirit of Life in Christ
 
+### 18. Passage Summaries
 
-### Q&A
+### 18. Q&A
 
+## 19. Count Cost _ Present & Yield
 
+### 19. Passage Summaries
 
+### 19. Q&A
 
+## 20. The Body - The Temple
 
-## 17 - Reckoning - Resurrected in Christ
+### 20. Passage Summaries
 
-### Passage Summaries
+### 20. Q&A
 
+## 21. Seated in Heavenly Places
 
-### Q&A
+### 21. Passage Summaries
 
+### 21. Q&A
 
+## 22. Let Not copy
 
+### 22. Passage Summaries
 
+### 22. Q&A
 
-## 18 - Spirit of Life in Christ
+## 23. Promises _ Confidence
 
-### Passage Summaries
+### 23. Passage Summaries
 
+### 23. Q&A
 
-### Q&A
+## 24. New in Christ
 
+### 24. Passage Summaries
 
+### 24. Q&A
 
+## 25. Adoption
 
+### 25. Passage Summaries
 
-## 19 - Count Cost _ Present & Yield
+### 25. Q&A
 
-### Passage Summaries
+## 26. Water Baptism
 
+### 26. Passage Summaries
 
-### Q&A
+### 26. Q&A
 
+## 27. Person of the Holy Spirit
 
+### 27. Passage Summaries
 
+### 27. Q&A
 
+## 28. Work of the Holy Spirit
 
-## 20 - The Body - The Temple
+### 28. Passage Summaries
 
-### Passage Summaries
+### 28. Q&A
 
+## 29. Knowing Asking Receiving
 
-### Q&A
+### 29. Passage Summaries
 
+### 29. Q&A
 
+## 30. The Power of the Spirit
 
+### 30. Passage Summaries
 
+### 30. Q&A
 
-## 21 - Seated in Heavenly Places
+## 31. The Fruit of the Spirit
 
-### Passage Summaries
+### 31. Passage Summaries
 
+### 31. Q&A
 
-### Q&A
+## 32. Persevering with Thanksgiving
 
+### 32. Passage Summaries
 
+### 32. Q&A
 
+## 33. The Commission
 
+### 33. Passage Summaries
 
-## 22 - Let Not copy
+### 33. Q&A
 
-### Passage Summaries
+## 34. The Return of the King
 
+### 34. Passage Summaries
 
-### Q&A
-
-
-
-
-
-## 23 - Promises _ Confidence
-
-### Passage Summaries
-
-
-### Q&A
-
-
-
-
-
-## 24 - New in Christ
-
-### Passage Summaries
-
-
-### Q&A
-
-
-
-
-
-## 25 - Adoption
-
-### Passage Summaries
-
-
-### Q&A
-
-
-
-
-
-## 26 - Water Baptism
-
-### Passage Summaries
-
-
-### Q&A
-
-
-
-
-
-## 27 - Person of the Holy Spirit
-
-### Passage Summaries
-
-
-### Q&A
-
-
-
-
-
-## 28 - Work of the Holy Spirit
-
-### Passage Summaries
-
-
-### Q&A
-
-
-
-
-
-## 29 - Knowing Asking Receiving
-
-### Passage Summaries
-
-
-### Q&A
-
-
-
-
-
-## 30 - The Power of the Spirit
-
-### Passage Summaries
-
-
-### Q&A
-
-
-
-
-
-## 31 - The Fruit of the Spirit
-
-### Passage Summaries
-
-
-### Q&A
-
-
-
-
-
-## 32 - Persevering with Thanksgiving
-
-### Passage Summaries
-
-
-### Q&A
-
-
-
-
-
-## 33 - The Commission
-
-### Passage Summaries
-
-
-### Q&A
-
-
-
-
-
-## 34 - The Return of the King
-
-### Passage Summaries
-
-
-### Q&A
-
-
-
-
+### 34. Q&A
