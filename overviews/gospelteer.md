@@ -35,7 +35,7 @@
 
 **Nature:** The essence, essential qualities or attributes of a thing, which constitute it what it is.
 
-**Soul:** A living being, life (Gen 2:7, Gen 35:18), self (Gen 49:6), person, desire, appetite, emotion (Gen 42:21). While not entirely clear what the difference
+**Soul:** A living being, life (Gen 2:7, Gen 35:18), self (Gen 49:6), person, desire, appetite, emotion (Gen 42:21). 
 
 ### 1. Thesis Statement
 
@@ -60,19 +60,43 @@ The soul without God is dead. For if Christ is life, apart from Him we do not ha
 * __Psalm 14, Psalm 53__
   * There is none that do good
 
+* __James 2:10__
+  * Fany who stumble is guilty of all
+
+* __1 Corinthians 15:56__
+  * The strength of sin is the law
+
+* __Galatians 2:16__
+  * by the works of the law no flesh shall be justified
+
 ### 2. Q&A
 
-* ? What does it mean to be holy?
-* = It is to be separated "for" God, it is set apart from the world, it is clean, righteous. It is untarnished by sin-- which would would cause to be separate "from" God.
+* What does it mean to be holy?
+  * It is to be separated "for" God, it is set apart from the world, it is clean, righteous. It is untarnished by sin-- which would would cause to be separate "from" God.
 
-* ? God expects us to be holy. Why? (Leviticus 11:44, 45; 19:2; 20:7)
-* = Because He is holy, and He has commanded us to be like Him
+* God expects us to be holy. Why? (Leviticus 11:44, 45; 19:2; 20:7)
+  * Because He is holy, and He has commanded us to be like Him
 
-* ? What was the first law given to man?
-* = Not to eat of the tree of the knowledge of good and evil
-* = or officially, the ten commandments beginning with "you shall have no other gods before me." (Exodus 20)
+* What was the first law given to man?
+  * Not to eat of the tree of the knowledge of good and evil
+  * or officially, the ten commandments beginning with "you shall have no other gods before me." (Exodus 20)
+
+### 2. Key Words
+
+**Law:** The law is righteous and good. The law is a schoolmaster that leads us to Christ. By the works of the law no flesh shall be justified.
+
+
+**Command:** ...
+
+**Holiness:** 
+
+### 2. Thesis Statement
+
+### 2. Short Summary
 
 ## 3. The Fall - Sin and the Wrath of God
+
+### 3. Passage Summaries
 
 * __John 3:36__
   * the wrath of God is on those who do not believe
@@ -89,20 +113,28 @@ The soul without God is dead. For if Christ is life, apart from Him we do not ha
 * __2 Chronicles 12__
   * God's wrath did not come about because they humbled themselves
 
-* ? What was man’s initial state before God?
-* = He was in fellowship, He walked with God
+### 3. Q&A
 
-* ? What came about as a result of Adam and Eve taking and eating of the fruit?
-* = They were cast out of the garden, they no longer had intimacy with God
+* What was man’s initial state before God?
+  * He was in fellowship, He walked with God
 
-* ? What is sin?
-* = Sin is anything that is against and causes separation with God; disobedience (Romans 5:19), selfishness; rebellion against God; anything that is not of faith (Romans 14:23)
+* What came about as a result of Adam and Eve taking and eating of the fruit?
+  * They were cast out of the garden, they no longer had intimacy with God
 
-* ? What were the legal ramifications after the fall of man?
-* = Eternal separation and condemnation, slaves to sin
+* What is sin?
+  * Sin is anything that is against and causes separation with God; disobedience (Romans 5:19), selfishness; rebellion against God; anything that is not of faith (Romans 14:23)
 
-* ? Why did sin incur the wrath of God upon man?
-* =
+* What were the legal ramifications after the fall of man?
+  * Eternal separation and condemnation, slaves to sin
+
+* Why did sin incur the wrath of God upon man?
+  * ...
+
+### 3. Key Words
+
+### 3. Thesis Statement
+
+### 3. Short Summary
 
 ## 4. The Incarnation - Jesus - Fully Man and Fully God
 
